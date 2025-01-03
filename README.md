@@ -43,6 +43,17 @@
 
 <br>
 
+## Mis Conocimientos
+
+| **Categoría**         | **Tecnologías y Herramientas**                                                                 |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| **Frontend**          | HTML, CSS, JavaScript, Angular, Bootstrap                                                     |
+| **Backend**           | Java, Spring Boot, ASP.NET Core, C#                                                           |
+| **Herramientas**      | Bizagi, JasperSoft, Yed                                                                        |
+| **Aprendiendo**       | React, Microsoft Azure, AWS                                                                    |
+
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
